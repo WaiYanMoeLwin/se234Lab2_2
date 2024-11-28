@@ -1,6 +1,11 @@
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
+Cloned Friend:
+    Name : Min Thant Ko
+    Nickname : MT
+    Id: 662115510
+
 - - - -
 # Heading 1 #
 
